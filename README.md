@@ -1,13 +1,14 @@
-#分享阅读过的web技术文章，方便随时查看
+# 分享阅读过的web技术文章，方便随时查看
 
-##JavaScript
+## JavaScript
 
 JavaScript This的六道坎   ———— 2017-10-1
-http://mp.weixin.qq.com/s/vM-NauUrP71VjzbrWFu0fA
+
+http://mp.weixin.qq.com/s/vM-NAuUrP71VjzbrWFu0fA
 
 
-##HTML
+## HTML
 
-##CSS
+## CSS
 
-##其他
+## 其他
