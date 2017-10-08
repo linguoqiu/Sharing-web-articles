@@ -14,7 +14,7 @@ http://mp.weixin.qq.com/s/Auo-czWOOi0MnHRG-o21bA
 深入浅出妙用 Javascript 中 apply、call、bind ———— 2017-10-6  
 http://mp.weixin.qq.com/s/Ua_KAbe7605k_bDdzJGaAA
 
-Promise 异步流程控制 ———— 2017-10-6 
+Promise 异步流程控制 ———— 2017-10-6  
 http://mp.weixin.qq.com/s/UXCOW-LnPvFFu8YIoIRTrw
 
 ## HTML
@@ -32,6 +32,8 @@ http://mp.weixin.qq.com/s/yrVlqDYDffT1OlwdRwmzQQ
 更快地构建 DOM: 使用预解析, async, defer 以及 preload  ———— 2017-10-2  
 http://mp.weixin.qq.com/s/NRLdvloo8CQfNJeP0016zg
 
+如何提升页面渲染效率 ———— 2017-10-5  
+http://mp.weixin.qq.com/s/d8pacelSl99aN-cqDFYoIA
 
 ## 工具
 
@@ -42,6 +44,3 @@ http://mp.weixin.qq.com/s/zzg-N5KNGIZShl1PMOJDEA
 
 WordPress 宣布停止使用 React，网传百度也停用 React：15篇前端热文回看  ———— 2017-10-3  
 http://mp.weixin.qq.com/s/09n5ohaypelbdVhcbNea2w 
-
-如何提升页面渲染效率 ———— 2017-10-5  
-http://mp.weixin.qq.com/s/d8pacelSl99aN-cqDFYoIA
