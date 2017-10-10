@@ -46,6 +46,11 @@ http://mp.weixin.qq.com/s/dyyNL2SNlGcMCwnjEuHJKA
 Chrome 开发者控制台中一些意想不到的功能   ———— 2017-10-7  
 http://mp.weixin.qq.com/s/zzg-N5KNGIZShl1PMOJDEA
 
+## Angular2+
+
+大漠老师的blog，有很多不错的文章  ———  
+https://damoqiongqiu.github.io/
+
 ## 其他
 
 WordPress 宣布停止使用 React，网传百度也停用 React：15篇前端热文回看  ———— 2017-10-3  
