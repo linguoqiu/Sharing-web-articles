@@ -35,6 +35,9 @@ http://mp.weixin.qq.com/s/NRLdvloo8CQfNJeP0016zg
 如何提升页面渲染效率 ———— 2017-10-5  
 http://mp.weixin.qq.com/s/d8pacelSl99aN-cqDFYoIA
 
+如何处理 JavaScript 内存泄露  ———— 2017-10-8  
+http://mp.weixin.qq.com/s/dyyNL2SNlGcMCwnjEuHJKA
+
 ## 工具
 
 Chrome 开发者控制台中一些意想不到的功能   ———— 2017-10-7  
@@ -44,3 +47,12 @@ http://mp.weixin.qq.com/s/zzg-N5KNGIZShl1PMOJDEA
 
 WordPress 宣布停止使用 React，网传百度也停用 React：15篇前端热文回看  ———— 2017-10-3  
 http://mp.weixin.qq.com/s/09n5ohaypelbdVhcbNea2w 
+
+前端面试题小集 ———— 2017-10-8  
+http://mp.weixin.qq.com/s/kPnJLnbaDgYIBuEafI4siQ
+
+移动 web 开发问题和优化小结 ———— 2017-10-9  
+http://mp.weixin.qq.com/s/5OcYjPf0vNzuPdFVshkuFg
+
+Highcharts 6 正式发布，带来 15 种新的图表类型  ———— 2017-10-9  
+http://mp.weixin.qq.com/s/LHbakyzfLLjLuP-XlIeWHg
