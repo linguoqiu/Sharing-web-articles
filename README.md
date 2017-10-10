@@ -21,6 +21,9 @@ http://mp.weixin.qq.com/s/UXCOW-LnPvFFu8YIoIRTrw
 
 ## CSS
 
+盘点8种CSS实现垂直居中水平居中的绝对定位居中技术   ———— 2017-7-7  
+http://blog.csdn.net/freshlover/article/details/11579669
+
 CSS3 SVG实现可爱的动物哈士奇和狐狸动画  ———— 2017-10-3  
 https://mp.weixin.qq.com/s/2qphIzz30YcoyHPSKpohjA
 
