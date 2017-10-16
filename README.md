@@ -2,6 +2,9 @@
 
 ## JavaScript
 
+Lodash 中 assign，extend 和 merge 的区别  ———— 2017-9-1  
+http://blog.csdn.net/u011153667/article/details/52275797
+
 JavaScript This的六道坎   ———— 2017-10-1  
 http://mp.weixin.qq.com/s/vM-NAuUrP71VjzbrWFu0fA
 
@@ -30,6 +33,12 @@ https://mp.weixin.qq.com/s/2qphIzz30YcoyHPSKpohjA
 Web真相: CSS不是真正的编程  ———— 2017-10-7  
 http://mp.weixin.qq.com/s/yrVlqDYDffT1OlwdRwmzQQ
 
+CSS秘密花园：斜切角   ———— 2017-10-16  
+http://www.w3cplus.com/css3/css-secrets/cutout-corners.html
+
+CSS选择器从右向左的匹配规则 ———— 2017-10-16  
+https://mp.weixin.qq.com/s?__biz=MjM5MTA1MjAxMQ%3D%3D&mid=2651227015&idx=1&sn=a1e87571ff0c9c140869e0a5c4f0aa7b#wechat_redirect
+
 ## 性能优化
 
 更快地构建 DOM: 使用预解析, async, defer 以及 preload  ———— 2017-10-2  
@@ -50,6 +59,14 @@ http://mp.weixin.qq.com/s/zzg-N5KNGIZShl1PMOJDEA
 
 大漠老师的blog，有很多不错的文章  ———  
 https://damoqiongqiu.github.io/
+
+ionic3之自定义tabs菜单图标   ——— 2017-10-16  
+http://blog.giscafer.com/2017/06/27/ionic3-tab-custom-icon/
+
+## React\React Native
+
+React Native 项目常用第三方组件汇总  ——— 2017-10-16  
+http://www.jianshu.com/p/d9cd9a868764
 
 ## 其他
 
