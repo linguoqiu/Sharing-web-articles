@@ -2,6 +2,15 @@
 
 ## JavaScript
 
+- 如何使JavaScript更高效  ———— 2017-4-15  
+http://mp.weixin.qq.com/s/6SjSNZw7AlwEu-XAb7cyrw
+
+- 关于JavaScript调试的十来个小技巧  ———— 2017-7-3  
+http://mp.weixin.qq.com/s/ZldFuJwjghSvF5C247xxCA
+
+- 19+ 个 JavaScript 快速编程技巧 — SitePoint  ———— 2017-7-12  
+http://mp.weixin.qq.com/s/hfSCzTVZgxkluX42pHug_w
+
 - Lodash 中 assign，extend 和 merge 的区别  ———— 2017-9-1  
 http://blog.csdn.net/u011153667/article/details/52275797
 
@@ -59,12 +68,18 @@ http://www.webfront-js.com/articaldetail/112.html
 - es6模块与 commonJS规范的区别 ———— 2017-10-18  
 http://www.cnblogs.com/weblinda/p/6740833.html
 
-## HTML
+## HTML/HTML5
+
+- 移动 web 开发问题和优化小结 ———— 2017-10-9  
+http://mp.weixin.qq.com/s/5OcYjPf0vNzuPdFVshkuFg
+
+- 移动前端知识总结   ———— 2017-7-19  
+http://mp.weixin.qq.com/s/2neHgR8-9rKT0OdzQLZK_g
 
 - 写一个网页进度loading  ———— 2017-10-12  
  http://mp.weixin.qq.com/s/1sNFQz1-R4ZLyv5wAuz4Ag
 
-## CSS
+## CSS/CSS3
 
 - 盘点8种CSS实现垂直居中水平居中的绝对定位居中技术   ———— 2017-7-7  
 http://blog.csdn.net/freshlover/article/details/11579669
@@ -103,6 +118,12 @@ http://mp.weixin.qq.com/s/dyyNL2SNlGcMCwnjEuHJKA
 
 ## 工具
 
+- gulp详细入门教程   ———— 2016-10-4  
+http://mp.weixin.qq.com/s/56hHLwmjLwykrgxWnlL7JQ
+
+- Chrome开发者工具的小技巧   ———— 2017-4-4  
+https://mp.weixin.qq.com/s/45pi3e9NL1hO_fwvuEw84g
+
 - Chrome 开发者控制台中一些意想不到的功能   ———— 2017-10-7  
 http://mp.weixin.qq.com/s/zzg-N5KNGIZShl1PMOJDEA
 
@@ -124,14 +145,11 @@ http://www.jianshu.com/p/d9cd9a868764
 
 ## 其他
 
+- 2017年前端框架、类库、工具大比拼 ———— 2017-6-27  
+http://mp.weixin.qq.com/s/7gdTDFjUgiEB4DljAarCAg
+
 - WordPress 宣布停止使用 React，网传百度也停用 React：15篇前端热文回看  ———— 2017-10-3  
 http://mp.weixin.qq.com/s/09n5ohaypelbdVhcbNea2w 
-
-- 前端面试题小集 ———— 2017-10-8  
-http://mp.weixin.qq.com/s/kPnJLnbaDgYIBuEafI4siQ
-
-- 移动 web 开发问题和优化小结 ———— 2017-10-9  
-http://mp.weixin.qq.com/s/5OcYjPf0vNzuPdFVshkuFg
 
 - Highcharts 6 正式发布，带来 15 种新的图表类型  ———— 2017-10-9  
 http://mp.weixin.qq.com/s/LHbakyzfLLjLuP-XlIeWHg
@@ -144,6 +162,15 @@ http://mp.weixin.qq.com/s/Jo2G-1OE8s8BEEdsnjAhtQ
 
 - 前端跨域请求原理及实践  ———— 2017-10-14  
 http://mp.weixin.qq.com/s/9IUpotmbjVrkoZ6pdIldgQ
+
+- 用Nginx反向代理机制解决前端跨域问题  ———— 2017-7-22  
+http://mp.weixin.qq.com/s/rlaYUDULvoxYiFy1rc2M8Q
+
+- JavaScript 面试中常见算法问题详解  ———— 2017-2-22  
+http://mp.weixin.qq.com/s/0v7MfyKrlIosDgda0p9PIQ
+
+- 前端面试题小集 ———— 2017-10-8  
+http://mp.weixin.qq.com/s/kPnJLnbaDgYIBuEafI4siQ
 
 - JavaScript 面试必须知道的 10 个概念  ———— 2017-10-17  
 http://mp.weixin.qq.com/s/cJtc0O4o6-fLWr0047-ZtQ
