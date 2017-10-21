@@ -132,9 +132,6 @@ http://mp.weixin.qq.com/s/4qKqPHabAY-a3_qNOXphZA
 
 ## Angular2+
 
-- 大漠老师的blog，有很多不错的文章    
-https://damoqiongqiu.github.io/
-
 - ionic3之自定义tabs菜单图标   ——— 2017-10-16  
 http://blog.giscafer.com/2017/06/27/ionic3-tab-custom-icon/
 
@@ -179,6 +176,12 @@ http://mp.weixin.qq.com/s/cJtc0O4o6-fLWr0047-ZtQ
  http://mp.weixin.qq.com/s/n9la9pPFCI8lgUMEW3xvvg
 
 ## Blog
+
+- 阮一峰blog   
+http://javascript.ruanyifeng.com/
+
+- 大漠老师的blog，有很多不错的文章    
+https://damoqiongqiu.github.io/
 
 - 人人网FED博客，一个不错的前端blog  
 https://fed.renren.com/
