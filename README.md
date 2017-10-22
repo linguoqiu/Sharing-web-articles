@@ -187,8 +187,12 @@ http://mp.weixin.qq.com/s/cJtc0O4o6-fLWr0047-ZtQ
 
 ## Blog
 
+- MDN Web 文档  
+https://developer.mozilla.org/zh-CN/
+
 - 阮一峰blog   
-http://javascript.ruanyifeng.com/
+http://javascript.ruanyifeng.com/  
+http://www.ruanyifeng.com/blog/  
 
 - 大漠老师的blog，有很多不错的文章    
 https://damoqiongqiu.github.io/
