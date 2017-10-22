@@ -1,5 +1,7 @@
 # 分享阅读过的web技术文章，方便随时查看
 
+> 以下都是平时阅读过的web技术文章，有理解的，有不理解的，都记录下来，并尽量的分好类，等同于知识碎片化的一个整合归类，方便自己后续回顾。
+
 ## JavaScript
 
 - 如何使JavaScript更高效  ———— 2017-4-15  
@@ -19,6 +21,9 @@ http://mp.weixin.qq.com/s/vM-NAuUrP71VjzbrWFu0fA
 
 - JavaScript 的 this 指向问题深度解析    ———— 2017-10-18  
 http://mp.weixin.qq.com/s/xMLZLQzb2CBvkB7HkiNzSA
+
+- 从上下文，到作用域（彩蛋：理解闭包）    ———— 2017-10-22  
+http://mp.weixin.qq.com/s/NJa7wHLj0mqZ1r-OPEN7eQ
 
 - JavaScript 数组的一些方法的对比  ———— 2017-10-1  
 http://mp.weixin.qq.com/s/xm8rCiTwOhmSx6wXwJn07w
@@ -139,6 +144,11 @@ http://blog.giscafer.com/2017/06/27/ionic3-tab-custom-icon/
 
 - React Native 项目常用第三方组件汇总  ——— 2017-10-16  
 http://www.jianshu.com/p/d9cd9a868764
+
+## Vue
+
+- Vue 2.5 发布了   ——— 2017-10-22  
+http://mp.weixin.qq.com/s/WJw9PXaVbh6z1kjMYUwVSA
 
 ## 其他
 
