@@ -161,6 +161,9 @@ http://mp.weixin.qq.com/s/09n5ohaypelbdVhcbNea2w
 - Highcharts 6 正式发布，带来 15 种新的图表类型  ———— 2017-10-9  
 http://mp.weixin.qq.com/s/LHbakyzfLLjLuP-XlIeWHg
 
+- $.ajax使用总结(一)：Form提交与Payload提交     ———— 2017-10-24  
+ http://blog.csdn.net/yiifaa/article/details/73468001
+
 - 谈谈HTTP协议中的短轮询、长轮询、长连接和短连接   ———— 2017-10-11  
 http://mp.weixin.qq.com/s/Jo2G-1OE8s8BEEdsnjAhtQ
 
