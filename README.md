@@ -73,6 +73,15 @@ http://www.webfront-js.com/articaldetail/112.html
 - es6模块与 commonJS规范的区别 ———— 2017-10-18  
 http://www.cnblogs.com/weblinda/p/6740833.html
 
+- 前端高性能计算之一：WebWorkers  ———— 2017-10-23  
+http://mp.weixin.qq.com/s/7ucgN6SgW4v1RJpS0Lrk6A
+
+- 前端高性能计算（2）：asm.js & webassembly  ———— 2017-10-24  
+http://mp.weixin.qq.com/s/BMWOHxCZM31gyJGti7l6jw
+
+- 前端高性能计算（3）：Rust -> asm.js & webassembly  ———— 2017-10-25  
+http://mp.weixin.qq.com/s/sKY4fxrrHSfimO_azeMbIA
+
 ## HTML/HTML5
 
 - 移动 web 开发问题和优化小结 ———— 2017-10-9  
@@ -106,6 +115,9 @@ http://mp.weixin.qq.com/s/Sou6q1AyaJNzCYbhc_KwoA
 
 - CSS 布局说——可能是最全的  ———— 2017-10-16  
  https://mp.weixin.qq.com/s/iQ8mSr4oEAC8Ve6IdiN9jQ
+
+- 用 CSS 实现三角形与平行四边形  ———— 2017-10-25  
+http://mp.weixin.qq.com/s/jGP4fdcu6K3FW9LIr7Ij9A
 
 ## 性能优化
 
@@ -150,16 +162,7 @@ http://www.jianshu.com/p/d9cd9a868764
 - Vue 2.5 发布了   ——— 2017-10-22  
 http://mp.weixin.qq.com/s/WJw9PXaVbh6z1kjMYUwVSA
 
-## 其他
-
-- 2017年前端框架、类库、工具大比拼 ———— 2017-6-27  
-http://mp.weixin.qq.com/s/7gdTDFjUgiEB4DljAarCAg
-
-- WordPress 宣布停止使用 React，网传百度也停用 React：15篇前端热文回看  ———— 2017-10-3  
-http://mp.weixin.qq.com/s/09n5ohaypelbdVhcbNea2w 
-
-- Highcharts 6 正式发布，带来 15 种新的图表类型  ———— 2017-10-9  
-http://mp.weixin.qq.com/s/LHbakyzfLLjLuP-XlIeWHg
+## HTTP
 
 - $.ajax使用总结(一)：Form提交与Payload提交     ———— 2017-10-24  
  http://blog.csdn.net/yiifaa/article/details/73468001
@@ -170,11 +173,31 @@ http://mp.weixin.qq.com/s/Jo2G-1OE8s8BEEdsnjAhtQ
 - 也许这样理解 HTTPS 更容易   ———— 2017-10-20  
  http://mp.weixin.qq.com/s/plWWXOTZYzs5lNEZTcPAlQ
 
+- 即使用了 https 也不要通过 query strings 传敏感数据    ———— 2017-10-22  
+http://mp.weixin.qq.com/s/ALBCpP8A6ZG18ff_nPqzFA
+
+- HTTP 缓存机制一二三   ———— 2017-10-22  
+http://mp.weixin.qq.com/s/EqrFhUTIcqO804NHiqWFsg
+
+- 详解 Cookie 纪要   ———— 2017-10-23  
+http://mp.weixin.qq.com/s/a5vgNrP-NebEguDtgP98lA
+
 - 前端跨域请求原理及实践  ———— 2017-10-14  
 http://mp.weixin.qq.com/s/9IUpotmbjVrkoZ6pdIldgQ
 
 - 用Nginx反向代理机制解决前端跨域问题  ———— 2017-7-22  
 http://mp.weixin.qq.com/s/rlaYUDULvoxYiFy1rc2M8Q
+
+## 其他
+
+- 2017年前端框架、类库、工具大比拼 ———— 2017-6-27  
+http://mp.weixin.qq.com/s/7gdTDFjUgiEB4DljAarCAg
+
+- WordPress 宣布停止使用 React，网传百度也停用 React：15篇前端热文回看  ———— 2017-10-3  
+http://mp.weixin.qq.com/s/09n5ohaypelbdVhcbNea2w 
+
+- Highcharts 6 正式发布，带来 15 种新的图表类型  ———— 2017-10-9  
+http://mp.weixin.qq.com/s/LHbakyzfLLjLuP-XlIeWHg
 
 - JavaScript 面试中常见算法问题详解  ———— 2017-2-22  
 http://mp.weixin.qq.com/s/0v7MfyKrlIosDgda0p9PIQ
