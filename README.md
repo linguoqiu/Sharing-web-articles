@@ -82,6 +82,9 @@ http://mp.weixin.qq.com/s/BMWOHxCZM31gyJGti7l6jw
 - 前端高性能计算（3）：Rust -> asm.js & webassembly  ———— 2017-10-25  
 http://mp.weixin.qq.com/s/sKY4fxrrHSfimO_azeMbIA
 
+- 前端高性能计算（4）：GPU加速计算   ———— 2017-10-26  
+http://mp.weixin.qq.com/s/lsn9Ri0WuRxRVF7P4jSgew
+
 ## HTML/HTML5
 
 - 移动 web 开发问题和优化小结 ———— 2017-10-9  
@@ -210,6 +213,12 @@ http://mp.weixin.qq.com/s/cJtc0O4o6-fLWr0047-ZtQ
 
 - Twitter 是如何做新版手机网站的  ———— 2017-10-18  
  http://mp.weixin.qq.com/s/n9la9pPFCI8lgUMEW3xvvg
+
+- 写在2017的前端数据层不完全指北  ———— 2017-10-27  
+http://mp.weixin.qq.com/s/APolKAJ1DpPKaL42qS8rOQ
+
+- 汇总一些知名的 JavaScript 开发开源项目  ———— 2017-10-27  
+http://mp.weixin.qq.com/s/Jqe2G9-DNL-nnRnd9_x_Bg
 
 ## Blog
 
