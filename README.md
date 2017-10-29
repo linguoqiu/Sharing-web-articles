@@ -122,6 +122,9 @@ http://mp.weixin.qq.com/s/Sou6q1AyaJNzCYbhc_KwoA
 - 用 CSS 实现三角形与平行四边形  ———— 2017-10-25  
 http://mp.weixin.qq.com/s/jGP4fdcu6K3FW9LIr7Ij9A
 
+- CSS 框架 Bulma 教程  ———— 2017-10-28  
+http://mp.weixin.qq.com/s/OrfWIgFisnl6FLz5N6xrAQ
+
 ## 性能优化
 
 - 更快地构建 DOM: 使用预解析, async, defer 以及 preload  ———— 2017-10-2  
@@ -135,6 +138,9 @@ http://mp.weixin.qq.com/s/L0lr5n3mDJmjTDCNkkJcvg
 
 - 如何处理 JavaScript 内存泄露  ———— 2017-10-8  
 http://mp.weixin.qq.com/s/dyyNL2SNlGcMCwnjEuHJKA
+
+- 如何使 JavaScript 更高效？  ———— 2017-10-28  
+http://mp.weixin.qq.com/s/8Q-Ky3MgnAOq-0RB4yQA1Q
 
 ## 工具
 
@@ -219,6 +225,12 @@ http://mp.weixin.qq.com/s/APolKAJ1DpPKaL42qS8rOQ
 
 - 汇总一些知名的 JavaScript 开发开源项目  ———— 2017-10-27  
 http://mp.weixin.qq.com/s/Jqe2G9-DNL-nnRnd9_x_Bg
+
+- 如果你的网站没有JavaScript  ———— 2017-10-29  
+http://mp.weixin.qq.com/s/VmNuCpDjWQGYxpZp6OPhzQ
+
+- 一道面试题引发的对 JS 类型转换的思考  ———— 2017-10-29  
+http://mp.weixin.qq.com/s/cWZcli2ZenUnObyVQQ7-VA
 
 ## Blog
 
