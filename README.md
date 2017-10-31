@@ -85,6 +85,9 @@ http://mp.weixin.qq.com/s/sKY4fxrrHSfimO_azeMbIA
 - 前端高性能计算（4）：GPU加速计算   ———— 2017-10-26  
 http://mp.weixin.qq.com/s/lsn9Ri0WuRxRVF7P4jSgew
 
+- 前端国际化解决方案“填坑日记”   ———— 2017-10-31  
+http://mp.weixin.qq.com/s/5YG9RU3XHN25FIRvdrHblA
+
 ## HTML/HTML5
 
 - 移动 web 开发问题和优化小结 ———— 2017-10-9  
@@ -142,6 +145,9 @@ http://mp.weixin.qq.com/s/dyyNL2SNlGcMCwnjEuHJKA
 - 如何使 JavaScript 更高效？  ———— 2017-10-28  
 http://mp.weixin.qq.com/s/8Q-Ky3MgnAOq-0RB4yQA1Q
 
+- 前端开发工程师必须关注的几个性能指标   ———— 2017-10-31  
+http://mp.weixin.qq.com/s/GlpFbL8X_4F_V7NaALcoHA
+
 ## 工具
 
 - gulp详细入门教程   ———— 2016-10-4  
@@ -170,6 +176,9 @@ http://www.jianshu.com/p/d9cd9a868764
 
 - Vue 2.5 发布了   ——— 2017-10-22  
 http://mp.weixin.qq.com/s/WJw9PXaVbh6z1kjMYUwVSA
+
+- 记 Vue 大型表单项目的一个性能问题   ——— 2017-10-31  
+http://mp.weixin.qq.com/s/LOPIYlr7Utuk4X3tz2XSHg
 
 ## HTTP
 
@@ -231,6 +240,12 @@ http://mp.weixin.qq.com/s/VmNuCpDjWQGYxpZp6OPhzQ
 
 - 一道面试题引发的对 JS 类型转换的思考  ———— 2017-10-29  
 http://mp.weixin.qq.com/s/cWZcli2ZenUnObyVQQ7-VA
+
+- 一份前端岗位的面试，你拿什么从100位竞争者中脱颖而出？   ———— 2017-10-31  
+http://mp.weixin.qq.com/s/AGjWVtoWr0ryh-DSlZgh-w
+
+- 那些年我看的前端书籍   ———— 2017-10-31  
+http://mp.weixin.qq.com/s/_dfoGtgcAsAE4KEKZ_3oHw
 
 ## Blog
 
