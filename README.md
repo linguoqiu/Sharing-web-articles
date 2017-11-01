@@ -162,6 +162,9 @@ http://mp.weixin.qq.com/s/zzg-N5KNGIZShl1PMOJDEA
 - 程序员的基础生存技能：高效用Google    ———— 2017-10-15  
 http://mp.weixin.qq.com/s/4qKqPHabAY-a3_qNOXphZA
 
+- 前端在线工具  ———— 2017-11-1   
+http://tool.lu/
+
 ## Angular2+
 
 - ionic3之自定义tabs菜单图标   ——— 2017-10-16  
@@ -179,6 +182,11 @@ http://mp.weixin.qq.com/s/WJw9PXaVbh6z1kjMYUwVSA
 
 - 记 Vue 大型表单项目的一个性能问题   ——— 2017-10-31  
 http://mp.weixin.qq.com/s/LOPIYlr7Utuk4X3tz2XSHg
+
+## node.js
+
+-使用Express MongoDB开发一个完整MVC项目   ——— 2017-11-1  
+http://www.jianshu.com/p/b4256fb0847a
 
 ## HTTP
 
@@ -261,3 +269,6 @@ https://damoqiongqiu.github.io/
 
 - 人人网FED博客，一个不错的前端blog  
 https://fed.renren.com/
+
+- Node.js 入门
+http://cnodejs.org/getstart
