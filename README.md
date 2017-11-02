@@ -148,7 +148,11 @@ http://mp.weixin.qq.com/s/8Q-Ky3MgnAOq-0RB4yQA1Q
 - 前端开发工程师必须关注的几个性能指标   ———— 2017-10-31  
 http://mp.weixin.qq.com/s/GlpFbL8X_4F_V7NaALcoHA
 
+- 精读前后端渲染之争   ———— 2017-11-2  
+https://github.com/camsong/blog/issues/8
 
+- 服务器端渲染和客户端渲染有什么区别？   ———— 2017-11-2  
+http://mp.weixin.qq.com/s/sscFszD9ptj1bUPhiftZHA
 
 ## 工具
 
