@@ -148,6 +148,8 @@ http://mp.weixin.qq.com/s/8Q-Ky3MgnAOq-0RB4yQA1Q
 - 前端开发工程师必须关注的几个性能指标   ———— 2017-10-31  
 http://mp.weixin.qq.com/s/GlpFbL8X_4F_V7NaALcoHA
 
+
+
 ## 工具
 
 - gulp详细入门教程   ———— 2016-10-4  
@@ -182,6 +184,9 @@ http://mp.weixin.qq.com/s/WJw9PXaVbh6z1kjMYUwVSA
 
 - 记 Vue 大型表单项目的一个性能问题   ——— 2017-10-31  
 http://mp.weixin.qq.com/s/LOPIYlr7Utuk4X3tz2XSHg
+
+- Vue.js 服务器端渲染指南（中文版）   ——— 2017-11-2  
+https://juejin.im/entry/5955ba9d6fb9a06bbc4adf89
 
 ## node.js
 
