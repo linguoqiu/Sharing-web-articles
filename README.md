@@ -99,6 +99,9 @@ http://mp.weixin.qq.com/s/2neHgR8-9rKT0OdzQLZK_g
 - 写一个网页进度loading  ———— 2017-10-12  
  http://mp.weixin.qq.com/s/1sNFQz1-R4ZLyv5wAuz4Ag
 
+- 打造丝般顺滑的 H5 翻页库  ———— 2017-11-2  
+http://mp.weixin.qq.com/s/VSP8OT_FPi9nxL7qbIWNuQ
+
 ## CSS/CSS3
 
 - 盘点8种CSS实现垂直居中水平居中的绝对定位居中技术   ———— 2017-7-7  
@@ -128,6 +131,9 @@ http://mp.weixin.qq.com/s/jGP4fdcu6K3FW9LIr7Ij9A
 - CSS 框架 Bulma 教程  ———— 2017-10-28  
 http://mp.weixin.qq.com/s/OrfWIgFisnl6FLz5N6xrAQ
 
+- 设计师妹子问：字体颜色渐变，你能实现？  ———— 2017-11-03  
+http://mp.weixin.qq.com/s/UjWvNf8zfS7VWAusgN1RTw
+
 ## 性能优化
 
 - 更快地构建 DOM: 使用预解析, async, defer 以及 preload  ———— 2017-10-2  
@@ -154,6 +160,9 @@ https://github.com/camsong/blog/issues/8
 - 服务器端渲染和客户端渲染有什么区别？   ———— 2017-11-2  
 http://mp.weixin.qq.com/s/sscFszD9ptj1bUPhiftZHA
 
+- 前端优化带来的思考，浅谈前端工程化  ———— 2017-11-3  
+http://mp.weixin.qq.com/s/ULr9tuPjwf8V2ICTzmRoYw
+
 ## 工具
 
 - gulp详细入门教程   ———— 2016-10-4  
@@ -171,13 +180,16 @@ http://mp.weixin.qq.com/s/4qKqPHabAY-a3_qNOXphZA
 - 前端在线工具  ———— 2017-11-1   
 http://tool.lu/
 
+- 给 Web 开发人员推荐的文档生成工具 ———— 2017-11-3   
+http://mp.weixin.qq.com/s/oPDpfqNA1gaqgly47XNY9A
+
 ## Angular2+
 
 - ionic3之自定义tabs菜单图标   ——— 2017-10-16  
 http://blog.giscafer.com/2017/06/27/ionic3-tab-custom-icon/
 
-- Angular5.0.0新特性  
-http://www.cnblogs.com/besuccess/p/Angular.html
+- Angular5.0.0新特性  ——— 2017-11-3  
+http://mp.weixin.qq.com/s/XbgrogYJwDcdJG7HLAuwgA
 
 
 ## React\React Native
@@ -195,6 +207,12 @@ http://mp.weixin.qq.com/s/LOPIYlr7Utuk4X3tz2XSHg
 
 - Vue.js 服务器端渲染指南（中文版）   ——— 2017-11-2  
 https://juejin.im/entry/5955ba9d6fb9a06bbc4adf89
+
+- Vue 开源项目库汇总    ——— 2017-11-4  
+http://mp.weixin.qq.com/s/mK5bolwSu9gnTwkCLauZhQ
+
+- 我们为什么以及是如何从 Angular.js 迁移到 Vue.js？    ——— 2017-11-4  
+http://mp.weixin.qq.com/s/9VaWPT8Td4Si_yWKAoJVFg
 
 ## node.js
 
