@@ -4,7 +4,7 @@
 
 ## JavaScript
 
-[https://github.com/linguoqiu/Sharing-web-articles/blob/master/Angular2%2B/Angular2%2B.md](https://github.com/linguoqiu/Sharing-web-articles/blob/master/Angular2%2B/Angular2%2B.md "Javascript")
+[JavaScript](https://github.com/linguoqiu/Sharing-web-articles/blob/master/JavaScript/JavaScript.md "JavaScript")
 
 ## HTML/HTML5
 
