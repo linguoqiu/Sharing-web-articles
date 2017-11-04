@@ -1,0 +1,83 @@
+- 如何使JavaScript更高效  ———— 2017-4-15  
+http://mp.weixin.qq.com/s/6SjSNZw7AlwEu-XAb7cyrw
+
+- 关于JavaScript调试的十来个小技巧  ———— 2017-7-3  
+http://mp.weixin.qq.com/s/ZldFuJwjghSvF5C247xxCA
+
+- 19+ 个 JavaScript 快速编程技巧 — SitePoint  ———— 2017-7-12  
+http://mp.weixin.qq.com/s/hfSCzTVZgxkluX42pHug_w
+
+- Lodash 中 assign，extend 和 merge 的区别  ———— 2017-9-1  
+http://blog.csdn.net/u011153667/article/details/52275797
+
+- JavaScript This的六道坎   ———— 2017-10-1  
+http://mp.weixin.qq.com/s/vM-NAuUrP71VjzbrWFu0fA
+
+- JavaScript 的 this 指向问题深度解析    ———— 2017-10-18  
+http://mp.weixin.qq.com/s/xMLZLQzb2CBvkB7HkiNzSA
+
+- 从上下文，到作用域（彩蛋：理解闭包）    ———— 2017-10-22  
+http://mp.weixin.qq.com/s/NJa7wHLj0mqZ1r-OPEN7eQ
+
+- JavaScript 数组的一些方法的对比  ———— 2017-10-1  
+http://mp.weixin.qq.com/s/xm8rCiTwOhmSx6wXwJn07w
+
+- 管理页面的 setTimeout & setInterval ———— 2017-10-5  
+http://mp.weixin.qq.com/s/Auo-czWOOi0MnHRG-o21bA
+
+- 深入浅出妙用 Javascript 中 apply、call、bind ———— 2017-10-6  
+http://mp.weixin.qq.com/s/Ua_KAbe7605k_bDdzJGaAA
+
+- Promise 异步流程控制 ———— 2017-10-6  
+http://mp.weixin.qq.com/s/UXCOW-LnPvFFu8YIoIRTrw
+
+- JavaScript 字符串转数字：陷阱（示例）  ———— 2017-10-10  
+ http://mp.weixin.qq.com/s/TJSje91ttw1ZZKziGYDC9Q
+
+- Service Worker初体验  ———— 2017-10-11  
+https://segmentfault.com/a/1190000007290802
+
+- 使用 Service Worker 做一个 PWA 离线网页应用  ———— 2017-10-11  
+http://mp.weixin.qq.com/s/VC5MbDEzMOSntZ1Dj8t-FA
+
+- JavaScript 中错误正确处理方式，你用对了吗？  ———— 2017-10-12  
+http://mp.weixin.qq.com/s/vCw0Qg_n4JJHzKfSMhNPPg
+
+- localStorage 还能这么用   ———— 2017-10-13  
+http://mp.weixin.qq.com/s/vy7pRk97T7SN7Jc-uI_smQ
+
+- JavaScript 浮点数陷阱及解法  ———— 2017-10-14  
+http://mp.weixin.qq.com/s/W0BSMvB3qK7rkEFubYy32g
+
+- js 创建一条通用链表  ———— 2017-10-17  
+http://mp.weixin.qq.com/s/WuFl3hqeSn1fj78N0qmxgw
+
+- React开发中的疑问：require和import的区别 ———— 2017-10-18  
+http://www.jianshu.com/p/37c644db7707
+
+- CommonJS规范 ———— 2017-10-18  
+http://javascript.ruanyifeng.com/nodejs/module.html#toc0
+
+- js模块化编程之彻底弄懂CommonJS和AMD/CMD！ ———— 2017-10-18  
+http://www.cnblogs.com/chenguangliang/p/5856701.html
+
+- AMD规范的requireJs学习使用，以及ES6的Module中import，export对比 ———— 2017-10-18  
+http://www.webfront-js.com/articaldetail/112.html
+
+- es6模块与 commonJS规范的区别 ———— 2017-10-18  
+http://www.cnblogs.com/weblinda/p/6740833.html
+
+- 前端高性能计算之一：WebWorkers  ———— 2017-10-23  
+http://mp.weixin.qq.com/s/7ucgN6SgW4v1RJpS0Lrk6A
+
+- 前端高性能计算（2）：asm.js & webassembly  ———— 2017-10-24  
+http://mp.weixin.qq.com/s/BMWOHxCZM31gyJGti7l6jw
+
+- 前端高性能计算（3）：Rust -> asm.js & webassembly  ———— 2017-10-25  
+http://mp.weixin.qq.com/s/sKY4fxrrHSfimO_azeMbIA
+
+- 前端高性能计算（4）：GPU加速计算   ———— 2017-10-26  
+http://mp.weixin.qq.com/s/lsn9Ri0WuRxRVF7P4jSgew
+
+- 前端国际化解决方案“填坑日记”   ———— 2017-10-31  
+http://mp.weixin.qq.com/s/5YG9RU3XHN25FIRvdrHblA
