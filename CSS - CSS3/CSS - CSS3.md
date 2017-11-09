@@ -28,3 +28,6 @@ http://mp.weixin.qq.com/s/OrfWIgFisnl6FLz5N6xrAQ
 
 - 设计师妹子问：字体颜色渐变，你能实现？  ———— 2017-11-03  
 http://mp.weixin.qq.com/s/UjWvNf8zfS7VWAusgN1RTw
+
+- 使用 CSS 3 制作长投影  ———— 2017-11-08  
+http://mp.weixin.qq.com/s/7sJ4zc2a617XloMbJg6Ozg
