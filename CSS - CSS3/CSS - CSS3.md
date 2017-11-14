@@ -31,3 +31,6 @@ http://mp.weixin.qq.com/s/UjWvNf8zfS7VWAusgN1RTw
 
 - 使用 CSS 3 制作长投影  ———— 2017-11-08  
 http://mp.weixin.qq.com/s/7sJ4zc2a617XloMbJg6Ozg
+
+- iPhone X 适配手Q H5 页面通用解决方案   ———— 2017-11-13  
+http://mp.weixin.qq.com/s/qLQ-LOXRvcU9zMrxJDthng

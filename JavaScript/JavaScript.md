@@ -16,6 +16,9 @@ http://mp.weixin.qq.com/s/vM-NAuUrP71VjzbrWFu0fA
 - JavaScript 的 this 指向问题深度解析    ———— 2017-10-18  
 http://mp.weixin.qq.com/s/xMLZLQzb2CBvkB7HkiNzSA
 
+- 别再为了 this 发愁了：JS 中的 this 机制   ———— 2017-11-13  
+http://mp.weixin.qq.com/s/KXCiyqvvvmMjj51TnI7HBw
+
 - 从上下文，到作用域（彩蛋：理解闭包）    ———— 2017-10-22  
 http://mp.weixin.qq.com/s/NJa7wHLj0mqZ1r-OPEN7eQ
 
@@ -81,3 +84,9 @@ http://mp.weixin.qq.com/s/lsn9Ri0WuRxRVF7P4jSgew
 
 - 前端国际化解决方案“填坑日记”   ———— 2017-10-31  
 http://mp.weixin.qq.com/s/5YG9RU3XHN25FIRvdrHblA
+
+- 利用 javascript 实现富文本编辑器   ———— 2017-11-11  
+https://mp.weixin.qq.com/s/1VitJ8AL4g9w51klmCO_Uw
+
+- 轻松学习 JavaScript（1）：了解 let 语句  ———— 2017-11-13  
+http://mp.weixin.qq.com/s/synNdDgKWvhtNj3jCA6vHA
