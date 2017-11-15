@@ -22,6 +22,12 @@ http://mp.weixin.qq.com/s/KXCiyqvvvmMjj51TnI7HBw
 - 从上下文，到作用域（彩蛋：理解闭包）    ———— 2017-10-22  
 http://mp.weixin.qq.com/s/NJa7wHLj0mqZ1r-OPEN7eQ
 
+- 图例详解那道 setTimeout 与循环闭包的经典面试题  ———— 2017-11-8  
+http://mp.weixin.qq.com/s/XB6OS2b162fV8YQ-TzE_nQ
+
+- 前端基础进阶（四）：详细图解作用域链与闭包  ———— 2017-11-8  
+http://mp.weixin.qq.com/s/taddUMUOcPgAriW6xZWFcA
+
 - JavaScript 数组的一些方法的对比  ———— 2017-10-1  
 http://mp.weixin.qq.com/s/xm8rCiTwOhmSx6wXwJn07w
 
