@@ -16,3 +16,6 @@ http://www.jianshu.com/p/6a45e2dfc9d9
 
 - React Native运行原理解析  ——— 2017-11-9  
 http://blog.csdn.net/xiangzhihong8/article/details/52623852
+
+- React Native 中文网  
+http://reactnative.cn/
