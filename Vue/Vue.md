@@ -13,3 +13,6 @@ http://mp.weixin.qq.com/s/mK5bolwSu9gnTwkCLauZhQ
 
 - 我们为什么以及是如何从 Angular.js 迁移到 Vue.js？    ——— 2017-11-4  
 http://mp.weixin.qq.com/s/9VaWPT8Td4Si_yWKAoJVFg
+
+- 用 Vue 做一个酷炫的 menu  ——— 2017-11-18  
+http://mp.weixin.qq.com/s/KbkyovOIfATvEK-ngvmSZQ

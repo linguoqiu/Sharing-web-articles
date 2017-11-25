@@ -10,3 +10,6 @@ http://mp.weixin.qq.com/s/2neHgR8-9rKT0OdzQLZK_g
 
 - 打造丝般顺滑的 H5 翻页库  ———— 2017-11-2  
 http://mp.weixin.qq.com/s/VSP8OT_FPi9nxL7qbIWNuQ
+
+- SVG 实现动态模糊动画效果  ———— 2017-11-19  
+http://mp.weixin.qq.com/s/1JGpe8TW9Ar7Sju5QOWj1A

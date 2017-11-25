@@ -96,3 +96,27 @@ https://mp.weixin.qq.com/s/1VitJ8AL4g9w51klmCO_Uw
 
 - 轻松学习 JavaScript（1）：了解 let 语句  ———— 2017-11-13  
 http://mp.weixin.qq.com/s/synNdDgKWvhtNj3jCA6vHA
+
+- 轻松学习 JavaScript (2)：函数中的 Rest 参数  ———— 2017-11-14  
+http://mp.weixin.qq.com/s/CShSFoe4dqdKgYbJ1I_EMQ
+
+- 轻松学习 JavaScript (3)：函数中的默认参数  ———— 2017-11-17  
+http://mp.weixin.qq.com/s/R7_5W6TDQ_KVPXGz8SoCig
+
+- 轻松学习 JavaScript (4)：函数中的 arguments 对象   ———— 2017-11-18  
+http://mp.weixin.qq.com/s/ubes2eaGZYWFe_sLbOXUSg
+
+- 轻松学习 JavaScript（5）：简化函数提升   ———— 2017-11-21  
+http://mp.weixin.qq.com/s/hKAz20TvRYovEYSKgiMMRw
+
+- 教你用webgl快速创建一个小世界  ———— 2017-11-15  
+http://mp.weixin.qq.com/s/XjsYb7Slm02UnHGFKftYSw
+
+- JavaScript 错误处理和堆栈追踪浅析   ———— 2017-11-16  
+http://mp.weixin.qq.com/s/I5wh8ee4qoqwmDBa6-fXEg
+
+- 14 个你可能不知道的 JavaScript 调试技巧  ———— 2017-11-17  
+https://mp.weixin.qq.com/s/ykGJDc_rZCfS_RhNsiwdtQ
+
+- JavaScript 中常见排序算法详解  ———— 2017-11-21  
+http://mp.weixin.qq.com/s/rh8CI7LgoXy8yI7AgUYc0g
