@@ -109,6 +109,9 @@ http://mp.weixin.qq.com/s/ubes2eaGZYWFe_sLbOXUSg
 - 轻松学习 JavaScript（5）：简化函数提升   ———— 2017-11-21  
 http://mp.weixin.qq.com/s/hKAz20TvRYovEYSKgiMMRw
 
+- 轻松学习 JavaScript（6）：JavaScript 箭头函数   ———— 2017-11-25  
+http://mp.weixin.qq.com/s/SROrxYNmkcl-KxoKb_TdFw
+
 - 教你用webgl快速创建一个小世界  ———— 2017-11-15  
 http://mp.weixin.qq.com/s/XjsYb7Slm02UnHGFKftYSw
 
@@ -120,3 +123,6 @@ https://mp.weixin.qq.com/s/ykGJDc_rZCfS_RhNsiwdtQ
 
 - JavaScript 中常见排序算法详解  ———— 2017-11-21  
 http://mp.weixin.qq.com/s/rh8CI7LgoXy8yI7AgUYc0g
+
+- 不使用 JS 匿名函数的三个理由  ———— 2017-11-24  
+http://mp.weixin.qq.com/s/EDn_a8_brIx6OZL--hqXZg
