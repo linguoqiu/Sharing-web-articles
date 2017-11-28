@@ -35,5 +35,8 @@ http://mp.weixin.qq.com/s/7sJ4zc2a617XloMbJg6Ozg
 - iPhone X 适配手Q H5 页面通用解决方案   ———— 2017-11-13  
 http://mp.weixin.qq.com/s/qLQ-LOXRvcU9zMrxJDthng
 
+- 网页适配 iPhoneX，就是这么简单 ———— 2017-11-27  
+http://mp.weixin.qq.com/s/b6dzXedGA64S1v1LtVX38A
+
 - 如何用 CSS 实现多行文本的省略号显示  ———— 2017-11-25  
 http://mp.weixin.qq.com/s/xjtP8CxAYIrueHLq076JDw
