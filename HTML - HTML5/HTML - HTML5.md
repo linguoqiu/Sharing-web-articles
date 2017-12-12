@@ -16,3 +16,6 @@ http://mp.weixin.qq.com/s/1JGpe8TW9Ar7Sju5QOWj1A
 
 - 基于 HTML5 Canvas 实现地铁站监控  ———— 2017-11-24  
 http://mp.weixin.qq.com/s/jkNvn62FoANZF7cwJzEkoQ
+
+- SVG 新司机开车指南  ———— 2017-11-30  
+http://mp.weixin.qq.com/s/4ZHm_xP4EkfEKjjygXo2XA

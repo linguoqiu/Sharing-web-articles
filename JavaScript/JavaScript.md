@@ -129,3 +129,7 @@ http://mp.weixin.qq.com/s/EDn_a8_brIx6OZL--hqXZg
 
 - CSS in JS 简介  ———— 2017-11-26  
 http://mp.weixin.qq.com/s/kD6xTSXTcdk5prfcexX4pg
+
+- 用 Async 函数简化异步代码 ———— 2017-11-29  
+http://mp.weixin.qq.com/s/rXw191QJ4tvJi97N3mzcMg
+

@@ -40,3 +40,9 @@ http://mp.weixin.qq.com/s/b6dzXedGA64S1v1LtVX38A
 
 - 如何用 CSS 实现多行文本的省略号显示  ———— 2017-11-25  
 http://mp.weixin.qq.com/s/xjtP8CxAYIrueHLq076JDw
+
+- 前端动画大乱炖  ———— 2017-11-29  
+http://mp.weixin.qq.com/s/N4WpjCI3TZre936HCXC0-g
+
+- 开发更好用的 JavaScript 模块  ———— 2017-12-1  	
+http://mp.weixin.qq.com/s/TRhtrCFUYDpCh7lPbmv_6g
