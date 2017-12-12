@@ -135,3 +135,6 @@ http://mp.weixin.qq.com/s/rXw191QJ4tvJi97N3mzcMg
 
 - 打造自己的 JavaScript 武器库 ———— 2017-12-05  
 http://mp.weixin.qq.com/s/HytDNo6rbp1oxEguaHP0mA
+
+- JS 中对变量类型的判断 ———— 2017-12-12  
+http://mp.weixin.qq.com/s/Qrk4efEGyaKNIR8vuPcq0w
