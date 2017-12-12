@@ -133,3 +133,5 @@ http://mp.weixin.qq.com/s/kD6xTSXTcdk5prfcexX4pg
 - 用 Async 函数简化异步代码 ———— 2017-11-29  
 http://mp.weixin.qq.com/s/rXw191QJ4tvJi97N3mzcMg
 
+- 打造自己的 JavaScript 武器库 ———— 2017-12-05  
+http://mp.weixin.qq.com/s/HytDNo6rbp1oxEguaHP0mA
