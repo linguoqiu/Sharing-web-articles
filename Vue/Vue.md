@@ -16,3 +16,6 @@ http://mp.weixin.qq.com/s/9VaWPT8Td4Si_yWKAoJVFg
 
 - 用 Vue 做一个酷炫的 menu  ——— 2017-11-18  
 http://mp.weixin.qq.com/s/KbkyovOIfATvEK-ngvmSZQ
+
+- 用 Vue 做一个酷炫的 menu：15篇前端热文回看 ——— 2017-12-1  
+http://mp.weixin.qq.com/s/lp50i04Ck9ijlx5-KiTGgQ
