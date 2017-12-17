@@ -19,3 +19,6 @@ http://blog.csdn.net/xiangzhihong8/article/details/52623852
 
 - React Native 中文网  
 http://reactnative.cn/
+
+- Mobx 中文手册  
+http://cn.mobx.js.org/
