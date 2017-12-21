@@ -23,5 +23,11 @@ http://reactnative.cn/
 - Mobx 中文手册  
 http://cn.mobx.js.org/
 
+- 高效的 MobX （使用教程）   
+https://qiutc.me/post/efficient-mobx.html
+
+- mobx 在ReactJS项目中的运用  
+http://blog.csdn.net/u012125579/article/details/69400169
+
 - React && React Native 组件   
 https://js.coach/
