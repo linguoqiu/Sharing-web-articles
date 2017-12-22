@@ -138,3 +138,9 @@ http://mp.weixin.qq.com/s/HytDNo6rbp1oxEguaHP0mA
 
 - JS 中对变量类型的判断 ———— 2017-12-12  
 http://mp.weixin.qq.com/s/Qrk4efEGyaKNIR8vuPcq0w
+
+- 理解 JavaScript 的 async/await ———— 2017-12-22  
+https://segmentfault.com/a/1190000007535316#articleHeader6
+
+- JavaScript 运行机制详解：再谈Event Loop ———— 2017-12-22  
+http://www.ruanyifeng.com/blog/2014/10/event-loop.html
