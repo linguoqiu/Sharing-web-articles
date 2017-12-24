@@ -31,3 +31,9 @@ http://blog.csdn.net/u012125579/article/details/69400169
 
 - React && React Native 组件   
 https://js.coach/
+
+- react-native 之布局篇   
+https://segmentfault.com/a/1190000002658374
+
+- react-native项目之样式总结   
+https://www.cnblogs.com/wonyun/p/5481134.html
