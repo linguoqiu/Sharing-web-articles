@@ -18,3 +18,5 @@ http://cnodejs.org/getstart
 - web前端开发  
 http://www.css88.com/
 
+- 阿里数据中台前端团队分享前端相关经验  
+https://zhuanlan.zhihu.com/purerender

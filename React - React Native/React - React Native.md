@@ -37,3 +37,13 @@ https://segmentfault.com/a/1190000002658374
 
 - react-native项目之样式总结   
 https://www.cnblogs.com/wonyun/p/5481134.html
+
+
+- 小菜鸟如何系统性学习React？  
+ https://www.zhihu.com/question/38725566
+
+- 在 2017 年学习 React + Redux 的一些建议（上篇）  
+https://github.com/iuap-design/blog/issues/178?from=groupmessage
+
+- 【react】当react框架遇上百度地图  
+https://www.cnblogs.com/penghuwan/archive/2017/06/05/6943260.html
